@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GeometrikSekiller
+namespace PolymorphismPratik
 {
     // Ortak Base Class
     public class BaseGeometrikSekil
